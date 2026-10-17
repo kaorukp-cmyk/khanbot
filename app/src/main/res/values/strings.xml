@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InDrive Auto</string>
+    <string name="service_label">InDrive Auto</string>
+    <string name="service_desc">Lee las solicitudes de inDrive, decide según tus reglas (km y precio) y registra cada una.</string>
+</resources>
